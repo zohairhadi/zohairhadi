@@ -5,7 +5,7 @@
 
 
 
-<div align="center"><img height="80" width="400" src="./assets/expert.gif"></div>
+<div align="center"><img height="80" width="100" src="./assets/expert.gif"></div>
 
 
 <div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...❣👨‍🔬</h1></div>
