@@ -4,6 +4,14 @@
 
 <div align="center"><h1>mein bilkul kr dun ga...🧑🏻‍💻</h1></div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zohairhadi"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!-- <div align="center"><table>
   <tr>
     <td>You are visitor</td>
